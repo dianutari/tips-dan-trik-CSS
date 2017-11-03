@@ -1,6 +1,6 @@
 # tips-dan-trik-CSS
-Inilah tips&amp;trik dari CSS:<br>
-  'membuat tombol cantik dengan CSS<br>
-  'menggunakan efek hover untuk produk<br>
-  'membuat accordion dengan CSS<br>
-  'membuat modal box dengan CSS<br>
+Inilah tips&amp;trik dari CSS:<br><br>
+  1.membuat tombol cantik dengan CSS<br>
+  2.menggunakan efek hover untuk produk<br>
+  3.membuat accordion dengan CSS<br>
+  4.membuat modal box dengan CSS<br>
